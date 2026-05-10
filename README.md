@@ -1,16 +1,22 @@
-## Hi there 👋
+Lawking0/ README.md
 
-<!--
-**Lawking0/Lawking0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋
+Computer Engineering Student @ UNILAG
+I’m Lawrence. I focus on the intersection of hardware and software. I prefer knowing how things work under the hood" rather than just using high-level abstractions.
 
-Here are some ideas to get you started:
+I’m currently learning I am deep-diving into low-level memory management and robust problem-solving through the CS50x curriculum to transition my skills into professional C and C++ development.
+  
+I’m looking to collaborate on I am eager to connect with developers and engineers working on firmware or embedded systems who value understanding hardware logic as much as writing efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ You can reach to me with lawrencebarry44@gmail.com.
+
+
+Fun Facts:
+
+ I play chess.
+ I don't take alcohols.
+ Jujutsu kaisen is one of my favorite anime.
+ Hobbies:anime,learning new things,gym.
+
+
+
