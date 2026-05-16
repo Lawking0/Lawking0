@@ -6,7 +6,7 @@ I’m **Lawrence**. I focus on the intersection of hardware and software. I pref
 
 I’m currently learning I am deep-diving into low-level memory management and robust problem-solving through the CS50x curriculum to transition my skills into professional C and C++ development.
   
-I’m looking to collaborate on I am eager to connect with developers and engineers working on firmware or embedded systems who value understanding hardware logic as much as writing efficient code.
+I’m looking to collaborate on I am eager to connect with developers who value understanding hardware logic as much as writing efficient code.
 
 ### 🛠️ Languages & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
