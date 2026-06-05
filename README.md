@@ -25,7 +25,7 @@ I’m looking to collaborate on I am eager to connect with developers who value 
 
  I play chess regurlarly.
   
- I don't take alcohols.
+ I don't take alcohol.
  
  Jujutsu Kaisen is one of my favorite anime.
  
